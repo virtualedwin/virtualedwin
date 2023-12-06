@@ -4,8 +4,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/virtualedwin/osTicket.git)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - <b>File Sharing</b>
   - [On-premises Active Directory To Give Certain Users Permissions To Files](https://github.com/virtualedwin/File-Sharing.git)
 
